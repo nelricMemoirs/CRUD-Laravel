@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>CREATE QUESTIONS</h1>
+    <h1>EDIT QUESTIONS</h1>
     {!! Form::open(['action'=> ['PertanyaanController@update', $pertanyaan->id], 'method' => 'POST']) !!}
         <div class=" container-fluid">
             <div class="form-group">
