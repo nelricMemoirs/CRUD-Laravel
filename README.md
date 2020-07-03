@@ -12,8 +12,9 @@ Install laravel form
    in case css folder not included inside laravel project do this:<br>
    `$ npm install` for compile bootstrap css file inside Laravel (only once), <br>
    this command should download node-module to project, but ignored when push to git<br>
-   `$ npm run` till css and js emitted to Laravel public / asset folder ,<br>
+   `$ npm run dev` till css and js emitted to Laravel public / asset folder ,<br>
    if you use `$ npm run watch` makes sure to kill terminal Ctrl + C, this will tell laravel to download required assets to project folder<br>
+   see <a href="https://laravel.com/docs/7.x/frontend">Laravel Documentation</a> for details.
    
 # CRUD with Laravel
 
