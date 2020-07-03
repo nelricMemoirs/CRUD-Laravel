@@ -1,5 +1,7 @@
 ## Dependencies
 
+Install laravel form 
+
 <a href="https://laravelcollective.com/docs/5.2/html">Laravel Collective Form</a>
 
 ### installation
@@ -18,7 +20,7 @@
 ***This project needs Database to run (in this case I use MySQL inside XAMPP)<br>
     2 table inside database, question & answer***<br>
 
-This is task for CRUD in Laravel, with Question(s) and Answer
+This is task for CRUD in Laravel, with Question(s) and Answer ***Click Delete button (corner right bottom) to delete Question, deleting question will also delete answer on it and delete database for that question and answer***
    
 # Front-Page
 <br><br>
