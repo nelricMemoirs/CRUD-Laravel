@@ -5,7 +5,7 @@ Install laravel form
 <a href="https://laravelcollective.com/docs/5.2/html">Laravel Collective Form</a>
 
 ### installation
-  $ composer require laravelcollective/html
+    $ composer require laravelcollective/html
     $ composer require laravel/ui
     $ php artisan ui bootstrap --auth
     
